@@ -10,5 +10,7 @@ int main() {
     std::cin >> a;
     std::cin >> b;
     std::cout << sum_of_two_digits(a, b);
+    
+    int y = 0;
     return 0;
 }
